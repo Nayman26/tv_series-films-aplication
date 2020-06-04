@@ -42,7 +42,7 @@ CREATE TABLE `kullanici` (
 
 INSERT INTO `kullanici` (`ID`, `Ad`, `Email`, `Parola`, `DogumTarihi`) VALUES
 (1, 'user1', 'user1@deneme.com', '123456789', '27/5/2020'),
-(2, 'user2', 'user2@deneme.com', '123456789', '0/0/2020'),
+(2, 'user2', 'user2@deneme.com', '123456789', '1/2/2020'),
 (3, 'user3', 'user3@deneme.com', '987654321', '31/5/2020'),
 (4, 'user4', 'user4@deneme.com', '987654321', '1/1/2020'),
 (5, 'user5', 'user5@deneme.com', '147258369', '31/5/2020'),
